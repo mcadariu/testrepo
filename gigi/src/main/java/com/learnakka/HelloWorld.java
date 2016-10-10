@@ -6,38 +6,6 @@ public class HelloWorld {
         int third = first + second;
         third = first + second;
         third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
-        third = first + second;
         return third;
     }
 
