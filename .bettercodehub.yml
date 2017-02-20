@@ -1,5 +1,5 @@
 exclude:
-- /gigi/src/main/java/com/learnakka/SecondFile.java
+- /gigi/src/main/java/com/learnakka/SecondFile\.java
 component_depth: 1
 languages:
 - java
