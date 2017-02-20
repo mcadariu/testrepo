@@ -6,6 +6,26 @@ public class SecondFile {
         int third = first + second;
         third = first + second;
         third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
+         third = first + second;
+        third = first + second;
         return third;
     }
 
