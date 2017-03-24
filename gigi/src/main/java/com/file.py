@@ -1,4 +1,4 @@
-def functionname( aap, noot='gigi', mies='bibi' ):
+def functionname( aap, noot='gigi', mies='bibi', gigi=('aap', 'noot', 'mies') ):
    print "gigi"
    print "gigi"
    print "gigi"
