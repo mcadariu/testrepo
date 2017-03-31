@@ -404,6 +404,26 @@ public class HelloWorld {
         //TODO add that to this
 
     }
+        
+        public int add(int first){
+        int third = first + second;
+        third = first + second;
+         thirdfdsfdsfdsfdsf = firstf + second;
+         third = first + second;
+        //TODO add this to that
+        //TODO add that to this
+
+    }
+        
+        public int add(int first){
+        int third = first + second;
+        third = first + second;
+         thirdfdsfdsfdsfdsfs = firstfs + secondfs;
+         third = first + second;
+        //TODO add this to that
+        //TODO add that to this
+
+    }
     
      public int add(int first, int second) {
         int third = first + second;
