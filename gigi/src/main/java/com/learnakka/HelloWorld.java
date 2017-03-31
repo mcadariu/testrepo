@@ -408,10 +408,26 @@ public class HelloWorld {
      public int add(int first, int second) {
         int third = first + second;
         third = first + second;
-         third = first + second;
-         third = first + second;
-         third = first + second;
-         third = first + second;
+         a = b + c;
+         d = e + f;
+         g = h + i;
+         k = l + m;
+                a = b + c;
+         d = e + f;
+         g = h + i;
+         k = l + m;
+                a = b + c;
+         d = e + f;
+         g = h + i;
+         k = l + m;
+                a = b + c;
+         d = e + f;
+         g = h + i;
+         k = l + m;
+                a = b + c;
+         d = e + f;
+         g = h + i;
+         k = l + m;
         //TODO add this to that
         //TODO add that to this
 
