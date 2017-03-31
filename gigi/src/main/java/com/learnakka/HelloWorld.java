@@ -103,9 +103,9 @@ public class HelloWorld {
     
         public int add(int first) {
         int third = first + second;
-           k = k + k;
-         k = k + k;
-         k = k + k;
+           kb = kb + kb;
+         kb = kb + kb;
+         kb = kb + kb;
         //TODO add this to that
         //TODO add that to this
 
