@@ -13,11 +13,6 @@ public class Third {
         //TODO klm
          //TODO nla
         //TODO xyz
-        try{
-        }
-        catch(Exception e){}
-        
-        return third;
-    }
+       
 
 }
