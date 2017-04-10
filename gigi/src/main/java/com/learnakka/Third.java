@@ -8,11 +8,9 @@ public class Third {
         third = first + second;
          third = first + second;
         
-        try{
-             third = first + second;
-        }
-        catch(Exception e){
-        }
+       try{
+     }
+        catch(Exception e){}    
         //TODO abc fdsf
         //TODO deff fdsfsd
          //TODO ghi fdsfsd
