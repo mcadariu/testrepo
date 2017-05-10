@@ -7,30 +7,7 @@ public class HelloWorld {
         aaaa = aaaaa + aaaa;
          aaaa = aaaaa + aaaa;
          aaaa = aaaaa + aaaa;
-                  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-                  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-                  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-                  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-                  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-                  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-                  aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-         aaaa = aaaaa + aaaa;
-                
+     
         //TODO add this to that
         //TODO add that to this
                 
