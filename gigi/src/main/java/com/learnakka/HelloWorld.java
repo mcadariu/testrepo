@@ -2,7 +2,7 @@ package com.learnakka;
 
 public class HelloWorld {
 
-        public int add(int first,int second, int third, int first, int fourth, int fifth, int sixth, int seventh, int eighth) {
+        public int add(int first) {
         int third = first + second;
         aaaa = aaaaa + aaaa;
          aaaa = aaaaa + aaaa;
