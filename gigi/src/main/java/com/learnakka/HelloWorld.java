@@ -6,6 +6,7 @@ public class HelloWorld {
         int third = first + second;
         aaaa = aaaaa + aaaa;
                         aaaa = aaaaa + aaaa;
+                                        aaaa = aaaaa + aaaa;
          aaaa = aaaaa + aaaa;
          aaaa = aaaaa + aaaa;
                 
