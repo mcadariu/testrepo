@@ -5,6 +5,7 @@ public class HelloWorld {
         public int add(int first) {
         int third = first + second;
         aaaa = aaaaa + aaaa;
+                        aaaa = aaaaa + aaaa;
          aaaa = aaaaa + aaaa;
          aaaa = aaaaa + aaaa;
                 
