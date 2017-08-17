@@ -3,7 +3,7 @@ package com.learnakka;
 public class SecondFile {
 
     public int add(int first, int second) {
-        int third = first + secon;
+        int third = first + seco;
         third = first + second;
         third = first + second;
          third = first + second;
